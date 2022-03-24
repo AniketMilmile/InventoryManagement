@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/InventoryManagement/static/js/app.c692a6e2.chunk.js",
+    "app.js.map": "/InventoryManagement/static/js/app.c692a6e2.chunk.js.map",
+    "runtime~app.js": "/InventoryManagement/static/js/runtime~app.10d7f859.js",
+    "runtime~app.js.map": "/InventoryManagement/static/js/runtime~app.10d7f859.js.map",
+    "static/js/2.bf829836.chunk.js": "/InventoryManagement/static/js/2.bf829836.chunk.js",
+    "static/js/2.bf829836.chunk.js.map": "/InventoryManagement/static/js/2.bf829836.chunk.js.map",
+    "fonts/AntDesign.ttf": "/InventoryManagement/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/InventoryManagement/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/InventoryManagement/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/InventoryManagement/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/InventoryManagement/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/InventoryManagement/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/InventoryManagement/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/InventoryManagement/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/InventoryManagement/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/InventoryManagement/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/InventoryManagement/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/InventoryManagement/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/InventoryManagement/favicon-16.png",
+    "favicon-32.png": "/InventoryManagement/favicon-32.png",
+    "favicon.ico": "/InventoryManagement/favicon.ico",
+    "index.html": "/InventoryManagement/index.html",
+    "manifest.json": "/InventoryManagement/manifest.json",
+    "serve.json": "/InventoryManagement/serve.json",
+    "static/js/2.bf829836.chunk.js.LICENSE.txt": "/InventoryManagement/static/js/2.bf829836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.10d7f859.js",
+    "static/js/2.bf829836.chunk.js",
+    "static/js/app.c692a6e2.chunk.js"
+  ]
+}
